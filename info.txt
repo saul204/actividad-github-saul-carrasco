@@ -1,0 +1,6 @@
+Nombre de alumno: Saul Alberto Carraco Corodova
+Fecha:12/03/2026
+
+Objetivo de la actividad: aprender sobre github
+
+Qué es un Pull Request: Un pull request (PR) es una solicitud en plataformas como GitHub o GitLab para fusionar cambios de código de una rama a otra, generalmente de una rama de desarrollo a la principal, permitiendo que el equipo revise, discuta y apruebe las mejoras antes de integrarlas. Es fundamental para la colaboración, asegurando la calidad del código
